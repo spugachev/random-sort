@@ -1,0 +1,33 @@
+{
+  "name": "random-sort",
+  "version": "2.1.0",
+  "description": "Time inconsistent sorting algorithm based on array shuffling",
+  "main": "index.js",
+  "keywords": [
+    "sorting", "sort", "random", "slowsort", "jokesort", "joke"
+  ],
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spugachev/random-sort.git"
+  },
+  "contributors": [
+    {
+      "name": "Sergey Pugachev"
+    },
+    {
+      "name": "Zviad Kardava"
+    }
+  ],
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/spugachev/random-sort/issues"
+  },
+  "homepage": "https://github.com/spugachev/random-sort#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "is-sorted": "^1.0.2"
+  }
+}
