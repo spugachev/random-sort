@@ -1,10 +1,15 @@
 {
   "name": "random-sort",
-  "version": "2.1.0",
+  "version": "2.3.0",
   "description": "Time inconsistent sorting algorithm based on array shuffling",
   "main": "index.js",
   "keywords": [
-    "sorting", "sort", "random", "slowsort", "jokesort", "joke"
+    "sorting",
+    "sort",
+    "random",
+    "slowsort",
+    "jokesort",
+    "joke"
   ],
   "scripts": {
     "test": "node test"
@@ -28,6 +33,7 @@
   "homepage": "https://github.com/spugachev/random-sort#readme",
   "dependencies": {
     "assert": "^1.4.1",
-    "is-sorted": "^1.0.2"
+    "is-sorted": "^1.0.2",
+    "shuffle-array": "^1.0.1"
   }
 }
