@@ -1,15 +1,20 @@
 {
   "name": "random-sort",
-  "version": "2.3.7",
+  "version": "2.4.8",
   "description": "Time inconsistent sorting algorithm based on array shuffling",
   "main": "index.js",
   "keywords": [
+    "random sort",
+    "bogosort",
     "sorting",
     "sort",
     "random",
     "slowsort",
     "jokesort",
-    "joke"
+    "joke",
+    "stupid sort",
+    "shotgun sort",
+    "monkey sort"
   ],
   "scripts": {
     "test": "node test"
