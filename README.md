@@ -6,6 +6,8 @@ Implementation of the [Bogosort](https://en.wikipedia.org/wiki/Bogosort) (also p
 
 Average performance: [O((n+1)!)](https://link.springer.com/chapter/10.1007%2F978-3-540-72914-3_17)
 
+![Build status](https://travis-ci.org/spugachev/random-sort.svg?branch=master)
+
 ## Installation
 
 ```sh
