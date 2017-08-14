@@ -2,6 +2,10 @@
 
 Time inconsistent sorting algorithm based on array shuffling!
 
+Implementation of the [Bogosort](https://en.wikipedia.org/wiki/Bogosort) (also permutation sort, stupid sort, slowsort, shotgun sort or monkey sort) algorithm. 
+
+Average performance: [O((n+1)!)](https://link.springer.com/chapter/10.1007%2F978-3-540-72914-3_17)
+
 ## Installation
 
 ```sh
