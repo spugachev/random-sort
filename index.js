@@ -8,6 +8,5 @@ var shuffle = require('shuffle-array');
  * @param cmp - Comparator
  */
 module.exports = function randomSort(arr, cmp){
-    while(!sorted(shuffle(arr), cmp)){
-    }
+    sort(arr, cmp);
 }
