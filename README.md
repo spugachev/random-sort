@@ -9,6 +9,7 @@ Average performance: [O((n+1)!)](https://link.springer.com/chapter/10.1007%2F978
 ![Build status](https://travis-ci.org/spugachev/random-sort.svg?branch=master)
 
 [![NPM](https://nodei.co/npm/random-sort.png?downloads=true)](https://nodei.co/npm/random-sort/)
+[![NPM](https://img.shields.io/npm/v/random-sort.svg)](https://www.npmjs.org/package/random-sort/)
 
 ## Installation
 
