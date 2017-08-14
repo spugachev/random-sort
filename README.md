@@ -35,6 +35,6 @@ console.log(array);
 
 Sorts the array `array` in place, optionally with the provided compare function `compare`.
 
-## Visialization
+## Visualization
 
 [![Youtube Bogo Sort](http://img.youtube.com/vi/DaPJkYo2quc/0.jpg)](http://www.youtube.com/watch?v=DaPJkYo2quc)
