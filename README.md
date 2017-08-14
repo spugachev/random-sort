@@ -15,13 +15,13 @@ npm install --save random-sort
 ## Usage
 
 ```js
-const sort = require('random-sort')
-const array = [1, 7, 2, 4, 9, 3]
+const sort = require('random-sort');
+const array = [1, 7, 2, 4, 9, 3];
 
-sort(array)
+sort(array);
 
 // [ 1, 2, 3, 4, 7, 9]
-console.log(array)
+console.log(array);
 ```
 
 ## API
