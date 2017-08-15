@@ -8,6 +8,13 @@ Average performance: [O((n+1)!)](https://link.springer.com/chapter/10.1007%2F978
 
 ![Build status](https://travis-ci.org/spugachev/random-sort.svg?branch=master)
 [![NPM](https://img.shields.io/npm/v/random-sort.svg)](https://www.npmjs.org/package/random-sort/)
+[![GitHub issues](https://img.shields.io/github/issues/spugachev/random-sort.svg)](https://github.com/spugachev/random-sort/issues)
+[![GitHub forks](https://img.shields.io/github/forks/spugachev/random-sort.svg)](https://github.com/spugachev/random-sort/network)
+[![GitHub stars](https://img.shields.io/github/stars/spugachev/random-sort.svg)](https://github.com/spugachev/random-sort/stargazers)
+[![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/spugachev/random-sort/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/spugachev/random-sort.svg)]()
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/spugachev/random-sort.svg)]()
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/spugachev/random-sort.svg)]()
 
 [![NPM](https://nodei.co/npm/random-sort.png?downloads=true)](https://nodei.co/npm/random-sort/)
 

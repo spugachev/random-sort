@@ -1,6 +1,6 @@
 {
   "name": "random-sort",
-  "version": "2.5.3",
+  "version": "2.6.4",
   "description": "Time inconsistent sorting algorithm based on array shuffling",
   "main": "index.js",
   "keywords": [
