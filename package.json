@@ -1,6 +1,6 @@
 {
   "name": "random-sort",
-  "version": "2.6.4",
+  "version": "2.6.9",
   "description": "Time inconsistent sorting algorithm based on array shuffling",
   "main": "index.js",
   "keywords": [
@@ -35,7 +35,7 @@
   "bugs": {
     "url": "https://github.com/spugachev/random-sort/issues"
   },
-  "homepage": "https://github.com/spugachev/random-sort#readme",
+  "homepage": "https://spugachev.github.io/random-sort/",
   "dependencies": {
     "assert": "^1.4.1",
     "is-sorted": "^1.0.2",
